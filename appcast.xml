@@ -5,18 +5,18 @@
         <description>Most recent updates to OTAG</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
-                    <h2>Initial Release</h2>
+                    <h2>Version 1.1.0</h2>
                     <ul>
-                        <li>First version of OTAG</li>
+                        <li>Bug fixes and improvements</li>
                     </ul>
                 ]]>
             </description>
             <pubDate>Thu, 05 Dec 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.0.1/otag_setup.exe"
-                       sparkle:version="1.0.1"
+            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.1.0/otag_setup.exe"
+                       sparkle:version="1.1.0"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
