@@ -5,10 +5,10 @@
         <description>Most recent updates to OTAG</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.2.1</title>
             <description>
                 <![CDATA[
-                    <h2>Version 1.2.0</h2>
+                    <h2>Version 1.2.1</h2>
                     <ul>
                         <li>Updated application logos and splash screen resources.</li>
                         <li>Minor improvements.</li>
@@ -16,8 +16,8 @@
                 ]]>
             </description>
             <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.2.0/otag_setup.exe"
-                       sparkle:version="1.2.0"
+            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.2.1/otag_setup.exe"
+                       sparkle:version="1.2.1"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
