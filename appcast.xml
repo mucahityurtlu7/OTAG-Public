@@ -5,22 +5,25 @@
         <description>Most recent updates to OTAG</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.1</title>
+            <title>Version 1.2.2</title>
             <description>
                 <![CDATA[
-                    <h2>Version 1.2.1</h2>
+                    <h2>Version 1.2.2</h2>
                     <ul>
-                        <li>Updated application logos and splash screen resources.</li>
+                        <li>1.2.2 Introduces comprehensive server management features to the backend, 
+                        including server settings updates, role CRUD operations, invite creation and revocation, 
+                member management (kick/delete), and secure channel update/delete functions.</li>
                         <li>Minor improvements.</li>
                     </ul>
                 ]]>
             </description>
             <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.2.1/otag_setup.exe"
-                       sparkle:version="1.2.1"
+            <enclosure url="https://github.com/mucahityurtlu7/OTAG-Public/releases/download/v1.2.2/otag_setup.exe"
+                       sparkle:version="1.2.2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
         </item>
     </channel>
 </rss>
+
